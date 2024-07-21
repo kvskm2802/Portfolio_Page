@@ -38,7 +38,7 @@ For the code, visit GitHub at [Portfolio Page](https://github.com/kvskm2802/Port
    git clone https://github.com/kvskm2802/Portfolio_Page
 2. Navigate into the project directory:
    ```bash
-    cd WeatherPage
+    cd Portfolio_Page
 3. Install dependencies:
    ```bash
     npm install
